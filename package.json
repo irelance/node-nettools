@@ -1,13 +1,10 @@
 {
   "name": "nettools",
   "version": "1.0.0",
-  "description": "",
+  "description": "nettools to check the status of net",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
-  "author": "",
+  "author": "irelance",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.15",
