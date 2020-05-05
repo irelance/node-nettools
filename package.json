@@ -1,8 +1,11 @@
 {
-  "name": "nettools",
+  "name": "@irelance/net-tools",
   "version": "1.0.0",
-  "description": "nettools to check the status of net",
+  "description": "net-tools to check the status of net",
   "main": "index.js",
+  "scripts": {
+    "release": "git push && npm publish --access=public"
+  },
   "keywords": [],
   "author": "irelance",
   "license": "ISC",
